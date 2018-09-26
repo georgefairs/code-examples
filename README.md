@@ -1,1 +1,4 @@
+The two .py files were created for my disseration project. The initial goal was to design several bone tissue scaffolds for analysis, but as the project progressed my focus shifted more toward developing code that allows users to rapidly generate scaffolds based on desired characteristics. This was achieved using Python alongside ABAQUS (an engineering analysis suite). I thoroughly enjoyed writing the code over many months - it was certainly challenging but always very satisfying when a problem or bug was ironed out.
+
+filament_code_final.py was the final Python script written for my dissertation project; when used with ABAQUS it would take various user inputs and generate the relevant scaffold, ready for analysis in the software and eventual 3D printing. It also generates much more relevant models than the earlier iteration, unit_cell_code_final.py, but in fewer lines of code and I felt it was more cleanly laid out and written.
 
